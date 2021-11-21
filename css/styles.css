@@ -306,8 +306,8 @@ img {
   fill: var(--social-link-color);
 }
 
-.social-icon:hover,
-.social-icon:focus {
+.social-link:hover .social-icon,
+.social-link:focus .social-icon {
   fill: var(--accent-color);
 }
 
