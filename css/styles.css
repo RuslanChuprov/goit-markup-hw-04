@@ -322,6 +322,10 @@ img {
   margin-bottom: 88px;
 }
 
+.customers-title {
+  margin-bottom: 50px;
+}
+
 .customers-list {
   display: flex;
   justify-content: center;
