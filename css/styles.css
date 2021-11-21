@@ -230,6 +230,7 @@ img {
   padding-top: 94px;
 }
 
+.customer-title,
 .section .title {
   color: var(--title-text-color);
   font-weight: 700;
