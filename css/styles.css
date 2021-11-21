@@ -588,3 +588,6 @@ img {
 .address .link:hover {
   color: var(--accent-text-color);
 }
+
+.connect {
+}
