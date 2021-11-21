@@ -277,6 +277,12 @@ img {
   margin-right: 0;
 }
 
+.property-item {
+  background-color: var(--background-color);
+  width: 270px;
+  height: 120px;
+}
+
 /* --------Social links----------- */
 
 .team-social-list {
