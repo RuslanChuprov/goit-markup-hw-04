@@ -18,6 +18,7 @@
   --logo-color: #000000;
   --header-border: #ececec;
   --address-color: rgba(255, 255, 255, 0.6);
+  --social-link-color: #afb1b8;
 }
 
 html {
@@ -284,7 +285,7 @@ img {
 }
 
 .team-social-item {
-  background-color: var(--address-color);
+  background-color: var(--accent-color);
   width: 44px;
   height: 44px;
 }
@@ -302,7 +303,7 @@ img {
 }
 
 .social-icon {
-  fill: var(--logo-color);
+  fill: var(--social-link-color);
 }
 
 .projects {
