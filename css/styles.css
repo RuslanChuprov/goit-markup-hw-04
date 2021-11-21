@@ -230,7 +230,6 @@ img {
   padding-top: 94px;
 }
 
-.customer-title,
 .section .title {
   color: var(--title-text-color);
   font-weight: 700;
@@ -348,6 +347,7 @@ img {
   display: block;
 }
 
+.section .customer-title,
 .section .images,
 .section .list-team {
   color: var(--title-text-color);
