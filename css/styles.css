@@ -592,10 +592,19 @@ img {
 
 .connect {
   display: block;
+  margin-top: 72px;
+  margin-bottom: 100px;
+  margin-left: 70px;
 }
 
 .connect-title {
   color: var(--accent-color);
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .footer-social-item {
