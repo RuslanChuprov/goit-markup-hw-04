@@ -316,6 +316,24 @@ img {
   background-color: var(--accent-text-color);
 }
 
+.customers-list {
+  display: flex;
+  justify-content: center;
+}
+
+.customers-item {
+  background-color: var(--accent-color);
+  width: 170px;
+  height: 92px;
+  border: 1px solid var(--social-link-color);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.customers-item + .customers-item {
+  margin-left: 30px;
+}
+
 .projects {
   display: flex;
   flex-wrap: wrap;
@@ -347,7 +365,7 @@ img {
   display: block;
 }
 
-.section .customer-title,
+.section .customers-title,
 .section .images,
 .section .list-team {
   color: var(--title-text-color);
