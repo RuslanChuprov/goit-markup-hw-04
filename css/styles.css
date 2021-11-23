@@ -413,6 +413,11 @@ img {
   margin-right: 30px;
 }
 
+.projects .item:hover,
+.projects .item:focus {
+  box-shadow: 0 4px 4px 0 var(--button-shadow);
+}
+
 .projects .item:nth-child(3n) {
   margin-right: 0;
 }
