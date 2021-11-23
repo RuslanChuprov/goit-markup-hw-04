@@ -569,6 +569,7 @@ img {
 
 .bottom {
   text-align: left;
+  display: flex;
 }
 
 .page {
