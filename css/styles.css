@@ -166,13 +166,14 @@ img {
 .auth-nav .mail,
 .auth-nav .phone,
 .auth-nav .first-mail {
-  display: block;
+  display: flex;
   color: var(--primary-text-color);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   padding: 32px 0;
+  align-items: center;
 }
 
 .auth-nav .link:hover,
@@ -189,7 +190,8 @@ img {
 
 .mail-icon,
 .phone-icon {
-  fill: var(--primary-text-color);
+  fill: currentColor;
+  margin-right: 10px;
 }
 
 /* Hero */
