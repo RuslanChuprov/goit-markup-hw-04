@@ -242,6 +242,7 @@ img {
   /* background-position: center; */
   background-position: 50% 50%;
   background-size: cover;
+  margin: 0 auto;
 }
 
 .property {
@@ -350,9 +351,6 @@ img {
   margin-top: 100px;
   margin-bottom: 88px;
 }
-
-/*.customers-box {
-}*/
 
 .customers-title {
   margin-bottom: 50px;
