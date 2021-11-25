@@ -607,11 +607,11 @@ img {
 }
 
 .connect {
-  display: block;
+  /* display: block; */
 
   /* margin-top: 72px; */
-  margin-bottom: 100px;
-  margin-right: auto;
+  /* margin-bottom: 100px; */
+  /* margin-right: auto; */
   margin-left: 70px;
 }
 
