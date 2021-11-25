@@ -305,6 +305,7 @@ img {
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
+  border-radius: 50%;
 }
 
 /* --------Social links----------- */
@@ -607,11 +608,6 @@ img {
 }
 
 .connect {
-  /* display: block; */
-
-  /* margin-top: 72px; */
-  /* margin-bottom: 100px; */
-  /* margin-right: auto; */
   margin-left: 70px;
 }
 
