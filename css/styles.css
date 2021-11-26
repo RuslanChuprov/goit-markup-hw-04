@@ -195,7 +195,7 @@ img {
   margin-right: 10px;
 }
 
-/* Hero */
+/*--------------- Hero------*/
 .hero-title,
 .hero-button {
   color: var(--accent-color);
@@ -239,7 +239,6 @@ img {
   width: 1600px;
   height: 600px;
   background-repeat: no-repeat;
-  /* background-position: center; */
   background-position: 50% 50%;
   background-size: cover;
   margin: 0 auto;
