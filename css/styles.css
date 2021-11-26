@@ -391,12 +391,13 @@ img {
 .customers-link:hover,
 .customers-link:focus {
   background-color: var(--accent-color);
+  border-color: var(--accent-text-color);
 }
 
 .customers-link:hover .customers-icon,
 .customers-link:focus .customers-icon {
   fill: var(--accent-text-color);
-  border-color: var(--accent-text-color);
+  /* border-color: var(--accent-text-color); */
 }
 
 .projects {
