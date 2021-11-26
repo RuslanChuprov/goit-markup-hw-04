@@ -283,6 +283,7 @@ img {
 .employees .item {
   border-radius: 4px;
   box-shadow: 0 4px 4px 0 var(--button-shadow);
+  overflow: hidden;
 }
 
 .employees .item + .item {
