@@ -388,10 +388,17 @@ img {
   fill: var(--social-link-color);
 }
 
+.customers-item:hover,
+.customers-item:focus {
+  border: 1px solid var(--accent-text-color);
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
 .customers-link:hover,
 .customers-link:focus {
   background-color: var(--accent-color);
-  border-color: var(--accent-text-color);
+  /* border: 1px solid var(--accent-text-color); */
 }
 
 .customers-link:hover .customers-icon,
