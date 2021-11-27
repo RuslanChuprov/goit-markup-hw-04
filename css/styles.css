@@ -359,8 +359,8 @@ img {
 
 .customers {
   justify-content: center;
-  margin-top: 100px;
-  margin-bottom: 88px;
+  padding-top: 100px;
+  padding-bottom: 88px;
 }
 
 .customers-title {
