@@ -103,6 +103,10 @@ img {
 
 .top-logo {
   color: var(--logo-color);
+}
+
+.logo-header,
+.logo-footer {
   padding-top: 24px;
   padding-bottom: 24px;
 }
