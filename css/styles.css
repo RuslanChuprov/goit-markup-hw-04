@@ -105,8 +105,7 @@ img {
   color: var(--logo-color);
 }
 
-.logo-header,
-.logo-footer {
+.logo-header {
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -619,6 +618,10 @@ img {
 }
 
 .bottom .down {
+  /* margin-bottom: 20px; */
+}
+
+.logo-footer {
   margin-bottom: 20px;
 }
 
